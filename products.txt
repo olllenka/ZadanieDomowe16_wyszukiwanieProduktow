@@ -1,0 +1,4 @@
+mleko;3.2;laciate
+czekolada;4.5;milka
+maslo;5.5;mlekovita
+czekolada gorzka;2.5;goplana
